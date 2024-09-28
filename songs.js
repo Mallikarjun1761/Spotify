@@ -56,7 +56,7 @@ let songs = [{
 },
 {
   id: 9,
-  image:"SongImages/Urike.jpeg",
+  image:"Urike.jpeg",
   title: 'Urike Urike (From "HIT 2")',
   discription: "MM Sreelekha",
   link: "Urike Urike.mp3"
