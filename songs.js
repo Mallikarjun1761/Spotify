@@ -54,6 +54,13 @@ let songs = [{
   discription: "Sanjith Hegde",
   link: "assets/songs/Ta Takkara (Complex Song).mp3"
 },
+{
+  id: 9,
+  image:"SongImages/Urike.jpeg",
+  title: 'Urike Urike (From "HIT 2")',
+  discription: "MM Sreelekha",
+  link: "assets/songs/Urike Urike.mp3"
+},
 
 ];
 
