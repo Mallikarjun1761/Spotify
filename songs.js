@@ -61,6 +61,13 @@ let songs = [{
   discription: "MM Sreelekha",
   link: "Urike Urike.mp3"
 },
+{
+  id: 10,
+  image:"Ayudha.jpeg",
+  title: 'Ayudha Pooja (From "Devara Part 1")',
+  discription: "Kala Bhairava",
+  link: "Ayudha Pooja.mp3"
+},
 
 ];
 
