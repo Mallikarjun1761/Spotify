@@ -1,65 +1,65 @@
 let songs = [{
   id: 1,
   image: "songImages/Sooseki.jpg",
-  title: "Siddu (From Pushpa 2)",
+  title: "Pushpa (From Pushpa 2)",
   discription: "Shreya Ghoshal",
-  link: "assets/songs/Sooseki.mp3"
+  link: "Sooseki.mp3"
 },
 {
   id: 2,
   image: "songImages/chuttamalle.jpeg",
   title: `Chuttamalle (From "Devara Part 1")`,
   discription: "Shilpa Rao",
-  link: "assets/songs/Chuttamalle.mp3"
+  link: "Chuttamalle.mp3"
 },
 {
   id: 3,
   image: "songImages/Oosupodu.jpeg",
   title: "Oosupodu",
   discription: "Hemachandra Vedala",
-  link: "assets/songs/Oosupodu.mp3"
+  link: "Oosupodu.mp3"
 },
 {
   id: 4,
   image: "songImages/Vellipomaake.jpeg",
   title: "Vellipomaake",
   discription: "Sid Sriram",
-  link: "assets/songs/Vellipomaake.mp3"
+  link: "Vellipomaake.mp3"
 },
 {
   id: 5,
   image: "songImages/Neeve.jpeg",
   title: 'Neeve (From "Darling")',
   discription: "G. V. Prakash",
-  link: "assets/songs/Neeve.mp3"
+  link: "Neeve.mp3"
 },
 {
   id: 6,
   image: "songImages/Ninnila.jpeg",
   title: 'Ninnila (From "Tholi Prema")',
   discription: "Thaman S",
-  link: "assets/songs/Ninnila.mp3"
+  link: "Ninnila.mp3"
 },
 {
   id: 7,
   image: "songImages/Samayama.jpeg",
   title: 'Samayama (From "Hi Nanna")',
   discription: "Anurag Kulkarni",
-  link: "assets/songs/Samayama.mp3"
+  link: "Samayama.mp3"
 },
 {
   id: 8,
   image:"https://i.scdn.co/image/ab67616d00001e028ee8aa309ffa00dff06ea3ec",
   title: 'Ta Takkara (From "Kalki 2928")',
   discription: "Sanjith Hegde",
-  link: "assets/songs/Ta Takkara (Complex Song).mp3"
+  link: "Ta Takkara (Complex Song).mp3"
 },
 {
   id: 9,
   image:"SongImages/Urike.jpeg",
   title: 'Urike Urike (From "HIT 2")',
   discription: "MM Sreelekha",
-  link: "assets/songs/Urike Urike.mp3"
+  link: "Urike Urike.mp3"
 },
 
 ];
